@@ -1,0 +1,14 @@
+.Hero-section{
+  text-align:center;
+  padding:80px 20px;
+}
+.Hero-section h1{
+  font-size:48px;
+  margin-bottom: 20px;
+  text-align:aquamarine;
+}
+.Hero-section p{
+  font-size:18px;
+  margin-bottom: 30px;
+
+}
